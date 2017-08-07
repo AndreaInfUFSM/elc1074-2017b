@@ -11,7 +11,7 @@ Professores: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea) e Celio
 
 ## Datas importantes
 
-- 17/08: Entrega do **Documento de Visão**, contendo no mínimo: identificação (título, responsáveis), descrição do problema, descrição dos usuários, alternativas/concorrência, visão geral do produto e recursos do produto. Criar documento no Google Docs e configurá-lo para permitir comentários (Share - Advanced - Change - Anyone with the link - Can comment). Entregar neste formulário.
+- 17/08: Entrega do **Documento de Visão**, contendo no mínimo: identificação (título, responsáveis), descrição do problema, descrição dos usuários, alternativas/concorrência, visão geral do produto e recursos do produto. Criar documento no Google Docs e configurá-lo para permitir comentários (Share - Advanced - Change - Anyone with the link - Can comment). Entregar [neste formulário](https://docs.google.com/forms/d/e/1FAIpQLSekh9aiLqSkG5qmMka0fWDXrXamuMEZW-K-uiu-3TDt9eRYyw/viewform).
 
 ## Projetos
 Lista de projetos em andamento (em breve).
