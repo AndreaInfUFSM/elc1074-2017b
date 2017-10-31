@@ -13,7 +13,7 @@ Professores: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea) e Celio
 
 - **Quinta-feira, 17/08:** Entrega do Documento de Visão, contendo no mínimo: identificação (título, responsáveis), descrição do problema, descrição dos usuários, alternativas/concorrência, visão geral do produto e recursos do produto. Criar documento no Google Docs e configurá-lo para permitir comentários (Share - Advanced - Change - Anyone with the link - Can comment). Entregar [neste formulário](https://docs.google.com/forms/d/e/1FAIpQLSekh9aiLqSkG5qmMka0fWDXrXamuMEZW-K-uiu-3TDt9eRYyw/viewform).
 
-- **Terça-feira, 31/10:** Aula às 14h30, na sala 367, com recomendações sobre testes com usuários. Veja slides [aqui](https://github.com/fpuntel/ELC1074/blob/master/Doc%C3%AAncia%20orientada%20-%20Usabilidade.pdf).
+- **Terça-feira, 31/10:** Aula às 14h30, na sala 367, com recomendações sobre testes com usuários. Veja [slides](https://github.com/fpuntel/ELC1074/blob/master/Doc%C3%AAncia%20orientada%20-%20Usabilidade.pdf) apresentados em Docência Orientada pelo mestrando Fernando Puntel.
 
 - **Quarta-feira, 08/11:** Aula às 13h30, na sala 367, com recomendações sobre os repositórios.
 
