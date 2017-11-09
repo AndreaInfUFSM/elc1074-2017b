@@ -19,6 +19,8 @@ Professores: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea) e Celio
 
 - **Terça-feira, 21/11:** Entrega (online) de resultados de testes com usuários.
 
+- **Quintaa-feira, 30/11:** Entrega (online) da tarefa sobre os repositórios.
+
 - **Terça-feira, 12/12:** A partir das 13h30, na sala 355, apresentação final dos projetos.
 
 ## Projetos
