@@ -25,10 +25,12 @@ Professores: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea) e Celio
 
 ## Projetos
 
-- Coleta Seletiva UFSM: aplicativo para localização de pontos de coleta de resíduos recicláveis
-- Olha o Passarinho: aplicativo para apoio a projeto extensionista de observação de aves
-- PayLess: sistema para auxílio na localização e comparação de ofertas de produtos a partir de notas fiscais eletrônicas
-- Oportunidades UFSM: sistema web para busca de oportunidades a acadêmicos da UFSM
-- Catalogy: sistema web para feedback sobre recursos de aprendizagem de programação na educação básica
-
+- [Coleta Seletiva UFSM](https://github.com/Felipe-Marin/Projeto-de-Software-II): aplicativo para localização de pontos de coleta de resíduos recicláveis
+- [Olha o Passarinho](https://github.com/dmoreiras/Projeto-II-Debora-e-Michele): aplicativo para apoio a projeto extensionista de observação de aves
+- [PayLess](https://github.com/lucaslioli/payless): sistema para auxílio na localização e comparação de ofertas de produtos a partir de notas fiscais eletrônicas
+- [Oportunidades UFSM](https://github.com/m-menezes/Projeto-de-Software-II): sistema web para busca de oportunidades a acadêmicos da UFSM
+- [Catalogy](https://github.com/capmayer/catalogo_project): sistema web para feedback sobre recursos de aprendizagem de programação na educação básica
+- [CEU Management](https://github.com/AnthonyTailer/ps2-ceu-management): sistema de apoio a tarefas de gestão em moradia estudantil
+- [SICAAP - Pacientes](https://github.com/Laiser/confisio): sistema de cadastro e acompanhamento de pacientes de fisioterapia.
+- [Web Experimentos](https://github.com/MarinaraRubenichF/WebRural): sistema de apoio a experimentos em agronomia
 
